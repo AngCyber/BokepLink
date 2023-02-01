@@ -14,6 +14,6 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ git clone https://github.com/AngCyber/BokepLink
 $ cd $HOME/BokepLink
-$ python Bokep.py
+$ python run.py
 ```
 ###### Selamat Mengocox :v
