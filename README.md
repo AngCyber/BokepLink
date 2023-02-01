@@ -8,4 +8,12 @@
 4. [Download Link Xnxx]()
 5. [Get Link Bokep]()
 
+###### Instalasi Tools :
+``` bash
+$ pkg update && pkg upgrade
+$ pkg install python
+$ git clone https://github.com/AngCyber/BokepLink
+$ cd $HOME/BokepLink
+$ python Bokep.py
+```
 ###### Selamat Mengocox :v
